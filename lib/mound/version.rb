@@ -6,5 +6,5 @@
 #   https://github.com/mnpopcenter/{REPO-NAME}
 
 module Mound
-  VERSION = '0.1.25'
+  VERSION = '0.1.26'
 end

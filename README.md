@@ -1,7 +1,7 @@
-rabl
+mound (formerly rabl)
 ====
 
-Ruby bulk loader, with clever foreign key support. RABl was developed with funding from the National Science Foundation, and is provided via a [BSD 3-clause like license](http://www.opensource.org/licenses/BSD-3-Clause), see [LICENSE](https://github.com/mnpopcenter/rabl/blob/master/LICENSE) for specifics.
+Ruby bulk loader, with clever foreign key support. mound was developed with funding from the National Science Foundation
 
 Quick Tutorial
 ===
